@@ -1,2 +1,3 @@
 # commit-rebase
-Commit rebase
+
+`git rebase` simple explain.
